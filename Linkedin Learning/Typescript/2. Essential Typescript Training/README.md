@@ -1,5 +1,7 @@
 # TypeScript Essential Training
 This is the repository for the LinkedIn Learning course TypeScript Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
+Course : https://www.linkedin.com/learning/typescript-essential-training-14687057/
+Github:  https://github.com/LinkedInLearning/typescript-EssT-2428199
 
 ![TypeScript Essential Training][lil-thumbnail-url] 
 
